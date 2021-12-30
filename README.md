@@ -27,5 +27,5 @@ Tools > Addons. Then select "wiktionaryCopy" and click on "Config".
 
 ## License
 
-This project is licensed under the GLPL3
+This project is licensed under the GPL3
 
