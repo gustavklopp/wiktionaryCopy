@@ -2,8 +2,12 @@
 
 A copier of the entry from Wiktionary for a chosen language.
 
-![screenshot1](https://imgur.com/SgdnL0x)
-![screenshot2](https://imgur.com/BySwfxC)
+Click on the tool button 'W':
+![Zaslonska slika 2021-12-30 13-48-06](https://user-images.githubusercontent.com/6438275/147755249-c12ec61b-a043-4d3d-b217-1931bf9bccb1.png)
+
+The entry of Wiktionary is copied:
+![Zaslonska slika 2021-12-30 13-48-39](https://user-images.githubusercontent.com/6438275/147755250-fb47d4f4-1653-4af0-9278-01b1ca26741a.png)
+
 
 ## Installing
 
