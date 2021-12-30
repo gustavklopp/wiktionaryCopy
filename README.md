@@ -1,6 +1,6 @@
 # WiktionaryCopy
 
-A copier of the entry from Wiktionary for a chosen language.
+An Add-on for Anki which copies the entry from Wiktionary for a chosen language.
 
 Click on the tool button 'W':
 ![Zaslonska slika 2021-12-30 13-48-06](https://user-images.githubusercontent.com/6438275/147755249-c12ec61b-a043-4d3d-b217-1931bf9bccb1.png)
